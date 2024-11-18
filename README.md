@@ -13,7 +13,7 @@ Welcome to the **Test Repository**! This repository is designed to help new user
 
 | Name | Specialization | GitHub Username | Location | Link |
 |------|----------------|-----------------|----------|------|
-|Yipmong Said | FullStack | Syipmong | Abuja, NG | github.com/syipmong |
+|Yipmong Said | FullStack | Syipmong | Abuja, NG | <https://www.github.com/syipmong> |
 |  |  |  |  |  |
 
 ### Instructions for New Users
