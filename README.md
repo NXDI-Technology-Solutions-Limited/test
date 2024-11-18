@@ -14,7 +14,7 @@ Welcome to the **Test Repository**! This repository is designed to help new user
 | Name | Specialization | GitHub Username | Location | Link |
 |------|----------------|-----------------|----------|------|
 |Yipmong Said | FullStack | Syipmong | Abuja, NG | <https://www.github.com/syipmong> |
-|  |  |  |  |  |
+| Owolabi Destiny o | FullStack  | owolajunior12  | Lagos, NG |<https://github.com/owolabijunior12>  |
 |  |  |  |  |  |
 
 ### Instructions for New Users
