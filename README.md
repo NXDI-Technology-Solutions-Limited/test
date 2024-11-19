@@ -15,6 +15,7 @@ Welcome to the **Test Repository**! This repository is designed to help new user
 |------|----------------|-----------------|----------|------|
 |Yipmong Said | FullStack | Syipmong | Abuja, NG | <https://www.github.com/syipmong> |
 | Owolabi Destiny O | FullStack  | owolabijunior12  | Lagos, NG | <https://github.com/owolabijunior12> |
+| Blessing Olaoye | Fullstack | Olasenterprise | Ibadan, NG | <https://github.com/OlasEnterprise> |
 |  |  |  |  |  |
 
 ### Instructions for New Users
