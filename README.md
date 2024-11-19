@@ -11,11 +11,11 @@ Welcome to the **Test Repository**! This repository is designed to help new user
    git clone https://github.com/NXDI-Technology-Solutions-Limited/test.git
    ```
 
-| Name | Specialization | GitHub Username | Location | Link |
-|------|----------------|-----------------|----------|------|
-|Yipmong Said | FullStack | Syipmong | Abuja, NG | <https://www.github.com/syipmong> |
-| Owolabi Destiny O | FullStack  | owolabijunior12  | Lagos, NG | <https://github.com/owolabijunior12> |
-|  |  |  |  |  |
+| Name              | Specialization | GitHub Username | Location   | Link                               |
+| ----------------- | -------------- | --------------- | ---------- | ---------------------------------- |
+| Yipmong Said      | FullStack      | Syipmong        | Abuja, NG  | <https://www.github.com/syipmong>  |
+| Adegboyega ibukun | FullStack      | Codekingibk     | ibadam, NG | <https://github.com/Codekingibk>   |
+| Owolabi destiny   | Fullstack      | Owolabijunior12 | Lagos,NG   | <https://github.com/Owolabijunior> |
 
 ### Instructions for New Users
 
