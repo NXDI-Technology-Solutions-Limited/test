@@ -17,6 +17,7 @@ Welcome to the **Test Repository**! This repository is designed to help new user
 | Adegboyega ibukun | FullStack      | Codekingibk     | ibadam, NG | <https://github.com/Codekingibk>   |
 | Owolabi destiny   | Fullstack      | Owolabijunior12 | Lagos,NG   | <https://github.com/Owolabijunior> |
 | Blessing Olaoye   | Fullstack      | Olasenterprise  | Ibadan, NG | <https://github.com/OlasEnterprise>|
+| Kim Davids        | Fullstack      | KIm-Davids      | Lagos, NG  | <https://github.com/KIm-Davids>    |
 |  |  |  |  |  |
 
 
